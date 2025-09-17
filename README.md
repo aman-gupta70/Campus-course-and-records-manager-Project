@@ -73,4 +73,4 @@ The following table maps the obligatory syllabus subjects to their implementatio
 Assertions are utilized for program's internal self-checks. They are turned off by default.
 To execute the program with assertions turned on, use the `-ea` switch when running from the command line:
 
-`java -ea -p out -m edu.ccrm.main/edu.ccrm.cli.CCRMApp`
+`java -ea -cp bin edu.ccrm.cli.CCRMApp`
