@@ -74,3 +74,13 @@ Assertions are utilized for program's internal self-checks. They are turned off 
 To execute the program with assertions turned on, use the `-ea` switch when running from the command line:
 
 `java -ea -cp bin edu.ccrm.cli.CCRMApp`
+
+
+#### 6. Author
+**Aman Kumar Gupta**  
+B.Tech Computer Science (Cyber Security & Digital Forensics)  
+VIT Bhopal University  
+Registration No: 23BCY10119
+
+**Under the guidance of:**  
+Dr. Sandeep Monga, VIT Bhopal University
